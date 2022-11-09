@@ -1,6 +1,6 @@
-function App() {
+function Home() {
   return (
     <h1>Lista de presença</h1>
   )
 }
-export default App
+export default Home
